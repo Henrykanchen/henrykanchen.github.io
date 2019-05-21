@@ -24,7 +24,7 @@ Before coming to Waterloo, I worked as an process instrumentation and control en
 
 1. Neel Bhatt, Henry Chen, Johra Muhammad Moosa, *Object Detection for Autonomous Driving in Adverse Weather Conditions*, 2018
 2. Henry Chen, Sean Sedwards, Pascal Poupart, *Drive Safe - An Empirical evaluation of Safe Reinforcement Learning for Autonomous Vehicle Speed Control*, 2018
-3. Henry Chen, Krzysztof Czarnecki, Edith Law, *Use the Lights: A Novel Approach to Autonomous Vehicle Pedestrian Interaction Effects of having a placeholder of a name*, 2018
+3. Henry Chen, Krzysztof Czarnecki, Edith Law, *Use the Lights: A Novel Approach to Autonomous Vehicle Pedestrian Interaction*, 2018
 4. Ajith Thiyagalingam, Sin Yi Victoria Tse, Henry Chen, Shreesha Addala, *How Canada can benefit from the United States and China’s proposed AI strategies*, 2017
 
 
