@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="henry.jpg">
 
-Hi! I am a Master's student in Computer Science at the University of Waterloo, Ontario, Canada. I am researching self-driving vehicles at the Waterloo Centre for Automotive Research [WatCAR](https://uwaterloo.ca/centre-automotive-research/).
+Hi! I am a Master's student in Computer Science at the University of Waterloo, Ontario, Canada, where I am researching self-driving vehicles at the Waterloo Centre for Automotive Research [WatCAR](https://uwaterloo.ca/centre-automotive-research/).
 
-Before coming to Waterloo, I worked as an process instrumentation and control engineer for TC Energy and as an system integration & embedded software intern for General Electric Canada Inc, in Calgary, Alberta, Canada.
+Before coming to Waterloo, I was an instrumentation and control engineer at TC Energy, Calgary, Alberta, Canada, where I designed and developed complex process control systems for large industrial facilities. I also worked as a system integration & embedded software intern at General Electric Canada Inc.
 
 
 ## Research Interest

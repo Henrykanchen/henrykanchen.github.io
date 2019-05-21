@@ -8,6 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
+footer_url: "https://www.linkedin.com/in/henry-chen-b1417114"
 footer_text: "Page created by Henry Kan Chen"
 
 sass:
